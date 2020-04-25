@@ -8,7 +8,7 @@ public class Point {
         double first = Math.pow(fx, 2);
         double second = Math.pow(fy, 2);
         double total = first + second;
-        double rsl = Math.sqrt (total);
+        double rsl = Math.sqrt(total);
         return rsl;
     }
 
